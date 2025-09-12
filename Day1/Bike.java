@@ -1,4 +1,5 @@
 package Day1;
+
 abstract class Bike {
     abstract void run();
 }
@@ -24,4 +25,14 @@ class Honda5 extends Bike {
         obj.run();
     }
 }
- 
+
+class Suzuki extends Bike {
+    void run() {
+        System.out.println("Suzuki is running!");
+    }
+
+    public static void main(String args[]) {
+        Bike obj = new Suzuki();
+        obj.run();
+    }
+}
