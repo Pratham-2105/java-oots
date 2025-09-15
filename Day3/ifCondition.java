@@ -41,5 +41,6 @@ public class ifCondition {
             System.out.println("Negative Number");
         else
             System.out.println("Number is zero");
+
     }
 }
