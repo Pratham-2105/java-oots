@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "request": "attach",
+            "name": "Java",
+            "port": 5005,
+            "sourceRoots": []
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Honda4",
+            "request": "launch",
+            "mainClass": "Day1.Honda4",
+            "projectName": "Java-OOts_c35aa65b"
+        },
+        {
+            "type": "java",
+            "name": "Honda5",
+            "request": "launch",
+            "mainClass": "Day1.Honda5",
+            "projectName": "Java-OOts_c35aa65b"
+        },
+        {
+            "type": "java",
+            "name": "Suzuki",
+            "request": "launch",
+            "mainClass": "Day1.Suzuki",
+            "projectName": "Java-OOts_c35aa65b"
+        },
+        {
+            "type": "java",
+            "name": "actual",
+            "request": "launch",
+            "mainClass": "Day1.actual",
+            "projectName": "Java-OOts_c35aa65b"
+        },
+        {
+            "type": "java",
+            "name": "actual1",
+            "request": "launch",
+            "mainClass": "Day1.actual1",
+            "projectName": "Java-OOts_c35aa65b"
+        },
+        {
+            "type": "java",
+            "name": "alsoActual",
+            "request": "launch",
+            "mainClass": "Day1.alsoActual",
+            "projectName": "Java-OOts_c35aa65b"
+        },
+        {
+            "type": "java",
+            "name": "demo",
+            "request": "launch",
+            "mainClass": "Day3.demo",
+            "projectName": "Java-OOts_c35aa65b"
+        }
+    ]
+}
