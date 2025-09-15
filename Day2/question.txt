@@ -1,0 +1,2 @@
+Q1. Sketch a class diagram describing the sales order system of Resturant.
+Q2. Sketch a class diagram describing the circle and rectangle class.
