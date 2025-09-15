@@ -14,7 +14,7 @@ class DefaultDataTypes1 {
         System.out.println(f);
         System.out.println(d);
         System.out.println(bool);
-        System.out.println("[ " + c + " ]");
+        System.out.println("'" + c + "'");
         System.out.println(s);
         System.out.println(b);
     }
