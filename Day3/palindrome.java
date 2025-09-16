@@ -23,12 +23,14 @@ class forPalindrome {
 
     }
 }
+
 public class palindrome {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        System.out.print("Enter test cases: ");
         int test = sc.nextInt();
 
-        while(test > 0) {
+        while (test > 0) {
             System.out.print("Enter the number: ");
             int temp = sc.nextInt();
 
