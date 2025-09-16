@@ -12,9 +12,9 @@ class Student4 {
     int id;
     String name;
 
-    Student4(int i, String n) { // -> parameterized construtor;
-        id = i;
-        name = n;
+    Student4(int id, String name) { // -> parameterized construtor;
+        this.id = id;
+        this.name = name;
     }
 
     void display() {
