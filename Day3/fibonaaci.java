@@ -1,7 +1,5 @@
 package Day3;
 
-import javax.swing.plaf.FontUIResource;
-
 class forFibonaaci {
     static int n1 = 0;
     static int n2 = 1;

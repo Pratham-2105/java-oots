@@ -52,6 +52,8 @@ class forFactorial {
 
 public class assignment2 {
     public static void main(String[] args) {
+        
+        
         Trapezoid trap = new Trapezoid();
         Triangle tri = new Triangle();
         Hexagon hex = new Hexagon();
@@ -60,7 +62,8 @@ public class assignment2 {
         tri.numberOfSides();
         hex.numberOfSides();
 
+
         forFactorial fact = new forFactorial();
-        fact.calculateFactorial(5);
+        fact.calculateFactorial(4);
     }
 }
