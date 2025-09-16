@@ -9,7 +9,7 @@ public class breakLoop {
         }
 
         aa: for (int i = 1; i <= 5; i++) {
-            bb: for (int j = 1; j <= 5; j++) {
+            for (int j = 1; j <= 5; j++) {
                 if (i == 3 && i == j) {
                     break aa;
                 }
