@@ -10,7 +10,7 @@ class Adder {
     }
 }
 
-public class testOverloading1 {
+public class demo {
     public static void main(String[] args) {
         System.out.println(Adder.add(45, 21));
         System.out.println(Adder.add(12, 23, 54));
