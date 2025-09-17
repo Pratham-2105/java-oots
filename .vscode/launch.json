@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "demo",
+            "request": "launch",
+            "mainClass": "Day5.Arrays.demo",
+            "projectName": "Java-OOts_c35aa65b"
+        },
+        {
+            "type": "java",
             "name": "returnTypeTest1",
             "request": "launch",
             "mainClass": "returnTypeTest1",
