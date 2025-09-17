@@ -14,6 +14,7 @@ public class garbageCollectionDemo {
         System.out.println("Garbage collector called for: " + name);
     }
 
+    @SuppressWarnings("unused")
     public static void main(String[] args) {
         garbageCollectionDemo o1 = new garbageCollectionDemo("random1");
         garbageCollectionDemo o2 = new garbageCollectionDemo("random2");
