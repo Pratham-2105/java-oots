@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LinearSearch",
+            "request": "launch",
+            "mainClass": "Day6.LinearSearch",
+            "projectName": "Java-OOts_c35aa65b"
+        },
+        {
+            "type": "java",
             "name": "demo",
             "request": "launch",
             "mainClass": "Day5.Arrays.demo",

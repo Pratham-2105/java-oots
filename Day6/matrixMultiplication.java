@@ -17,7 +17,7 @@ public class matrixMultiplication {
         int[][] result = new int[rowOfArr1][colOfArr2];
 
         for (int i = 0; i < rowOfArr1; i++) {
-            for (int j = 0; j < colOfArr2; j++) {
+            for (int j = 0; j < colOfArr2; j++) { // rowOfArr1 == colOfArr2 for *; 
                 int sum = 0;
                 for (int k = 0; k < colOfArr1; k++) {
                     sum += arr1[i][k] * arr2[k][j];
