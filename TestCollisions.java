@@ -10,3 +10,7 @@ public class TestCollisions {
         d2.test2();
     }
 }
+/*
+ * This is not working as intended.
+ * Will look into it some day.
+ */
