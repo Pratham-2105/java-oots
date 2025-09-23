@@ -30,6 +30,8 @@ public class ThrowDemo {
             checkAge(17); // calling the method that uses 'throws'
         } catch (ArithmeticException e) {
             System.out.println("Handled in main: " + e.getMessage());
+        } finally {
+            System.out.println("This is the finally block.");
         }
 
         System.out.println("Main program continues after handling 'throws'.");
