@@ -2,8 +2,12 @@ package Day7;
 
 public class ThrowDemo {
     public static void ExceptionDemo() {
+        int a = 5;
+        int b = 0;
+        int result = 0;
+        
         try {
-            int result = 10 / 0; // risky code;
+            result = a / b; // risky code;
             System.out.println(result);
         } catch (ArithmeticException e) {
             System.out.println("Exception caught: " + e);

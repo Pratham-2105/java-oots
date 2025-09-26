@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LocalizationTest",
+            "request": "launch",
+            "mainClass": "Day8.LocalizationTest",
+            "projectName": "Java-OOts_c35aa65b"
+        },
+        {
+            "type": "java",
+            "name": "ThrowDemo",
+            "request": "launch",
+            "mainClass": "Day7.ThrowDemo",
+            "projectName": "Java-OOts_c35aa65b"
+        },
+        {
+            "type": "java",
             "name": "LinearSearch",
             "request": "launch",
             "mainClass": "Day6.LinearSearch",
