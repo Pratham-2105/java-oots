@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ForThreads",
+            "request": "launch",
+            "mainClass": "ForThreads",
+            "projectName": "Java-OOts_c35aa65b"
+        },
+        {
+            "type": "java",
             "name": "LocalizationTest",
             "request": "launch",
             "mainClass": "Day8.LocalizationTest",
