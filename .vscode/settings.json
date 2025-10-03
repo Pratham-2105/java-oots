@@ -1,6 +1,10 @@
 {
-    "python-envs.defaultEnvManager": "ms-python.python:system",
-    "python-envs.pythonProjects": [],
-    "java.search.scope": "main",
-    "java.debug.settings.onBuildFailureProceed": true
+  "python-envs.defaultEnvManager": "ms-python.python:system",
+  "python-envs.pythonProjects": [],
+  "java.search.scope": "main",
+  "java.debug.settings.onBuildFailureProceed": true,
+
+  "java.project.referencedLibraries": [
+    "D:/JavaLibs/javafx-sdk-25/lib/**/*.jar"
+  ]
 }
